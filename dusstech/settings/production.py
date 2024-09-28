@@ -72,7 +72,8 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'dusstech.wsgi.application'
+# WSGI_APPLICATION = 'dusstech.wsgi.application'
+WSGI_APPLICATION = 'dusstech.wsgi.app'
 
 
 # Database
